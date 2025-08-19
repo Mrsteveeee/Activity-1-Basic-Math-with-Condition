@@ -1,3 +1,11 @@
+/*Group 8
+Leader:
+Steve Santos
+Members:
+Charls David P. Agustin
+Michelle Nicolas 
+Chris Anne Magtibay*/
+
 import java.util.Scanner;
 
 public class Main {
@@ -15,10 +23,9 @@ public class Main {
             System.out.print("Enter the second number: ");
             num2 = scanner.nextDouble();
 
-           System.out.println("Difference: " + (num1 - num2));
-        System.out.println("Product: " + (num1 * num2));
-        
-        System.out.println("Sum: " + (num1 + num2));
+                   
+
+System.out.println("Sum: " + (num1 + num2));
         System.out.println("Difference: " + (num1 - num2));
         System.out.println("Product: " + (num1 * num2));
         
