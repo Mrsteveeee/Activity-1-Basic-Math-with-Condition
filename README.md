@@ -1,10 +1,10 @@
-/*Group 8
-Leader:
-Steve Santos
-Members:
-Charls David P. Agustin
-Michelle Nicolas 
-Chris Anne Magtibay*/
+//Group 8
+//Leader:
+//Steve Santos
+//Members:
+//Charls David P. Agustin
+//Michelle Nicolas 
+//Chris Anne Magtibay
 
 import java.util.Scanner;
 
